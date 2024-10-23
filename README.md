@@ -11,3 +11,5 @@ The benchmark is Precision and Recall for Information Retrieval.
 Precision = Total number of documents retrieved that are relevant / Total number of documents that are retrieved
 
  Recall = Total number of documents retrieved that are relevant / Total number of relevant documents in the database
+
+In Refactor_version, training process can be monitoring with Wandb.ai 
